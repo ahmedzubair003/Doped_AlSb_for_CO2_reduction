@@ -1,0 +1,127 @@
+data_I6.1+3_AlSb_4x4_Fe_(H)
+_audit_creation_date              2025-12-29
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    17.3833
+_cell_length_b                    17.3833
+_cell_length_c                    20.0604
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 120.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Sb1    Sb   -0.00000  -0.00000   0.49808   0.00000  Uiso   1.00
+Al2    Al    0.16667   0.08333   0.53160   0.00000  Uiso   1.00
+Sb3    Sb    0.25000  -0.00000   0.49808   0.00000  Uiso   1.00
+Al4    Al    0.41667   0.08333   0.53160   0.00000  Uiso   1.00
+Sb5    Sb    0.50000  -0.00000   0.49808   0.00000  Uiso   1.00
+Al6    Al    0.66667   0.08333   0.53160   0.00000  Uiso   1.00
+Sb7    Sb    0.75000  -0.00000   0.49808   0.00000  Uiso   1.00
+Al8    Al    0.91667   0.08333   0.53160   0.00000  Uiso   1.00
+Sb9    Sb   -0.00000   0.25000   0.49808   0.00000  Uiso   1.00
+Al10   Al    0.16667   0.33333   0.53160   0.00000  Uiso   1.00
+Sb11   Sb    0.25000   0.25000   0.49808   0.00000  Uiso   1.00
+Al12   Al    0.41667   0.33333   0.53160   0.00000  Uiso   1.00
+Sb13   Sb    0.50000   0.25000   0.49808   0.00000  Uiso   1.00
+Al14   Al    0.66667   0.33333   0.53160   0.00000  Uiso   1.00
+Sb15   Sb    0.75000   0.25000   0.49808   0.00000  Uiso   1.00
+Al16   Al    0.91667   0.33333   0.53160   0.00000  Uiso   1.00
+Sb17   Sb   -0.00000   0.50000   0.49808   0.00000  Uiso   1.00
+Al18   Al    0.16667   0.58333   0.53160   0.00000  Uiso   1.00
+Sb19   Sb    0.25000   0.50000   0.49808   0.00000  Uiso   1.00
+Al20   Al    0.41667   0.58333   0.53160   0.00000  Uiso   1.00
+Sb21   Sb    0.50000   0.50000   0.49808   0.00000  Uiso   1.00
+Al22   Al    0.66667   0.58333   0.53160   0.00000  Uiso   1.00
+Sb23   Sb    0.75000   0.50000   0.49808   0.00000  Uiso   1.00
+Al24   Al    0.91667   0.58333   0.53160   0.00000  Uiso   1.00
+Sb25   Sb   -0.00000   0.75000   0.49808   0.00000  Uiso   1.00
+Al26   Al    0.16667   0.83334   0.53160   0.00000  Uiso   1.00
+Sb27   Sb    0.25000   0.75000   0.49808   0.00000  Uiso   1.00
+Al28   Al    0.41667   0.83334   0.53160   0.00000  Uiso   1.00
+Sb29   Sb    0.50000   0.75000   0.49808   0.00000  Uiso   1.00
+Al30   Al    0.66667   0.83334   0.53160   0.00000  Uiso   1.00
+Sb31   Sb    0.75000   0.75000   0.49808   0.00000  Uiso   1.00
+Al32   Al    0.91667   0.83334   0.53160   0.00000  Uiso   1.00
+Fe33   Fe    0.83333   0.66666   0.51345   0.00000  Uiso   1.00
+C34    C     0.05728   0.85222   0.66432   0.00000  Uiso   1.00
+H35    H    -0.00050   0.81438   0.69706   0.00000  Uiso   1.00
+H36    H     0.11875   0.87160   0.69238   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Sb1    Al32    2.598   1_445 S
+Sb1    Al2     2.598   .     S
+Sb1    Al8     2.598   1_455 S
+Al2    Sb11    2.598   .     S
+Al2    Sb3     2.598   .     S
+Sb3    Al26    2.598   1_545 S
+Sb3    Al4     2.598   .     S
+Al4    Sb13    2.598   .     S
+Al4    Sb5     2.598   .     S
+Sb5    Al28    2.598   1_545 S
+Sb5    Al6     2.598   .     S
+Al6    Sb15    2.598   .     S
+Al6    Sb7     2.598   .     S
+Sb7    Al30    2.598   1_545 S
+Sb7    Al8     2.598   .     S
+Al8    Sb9     2.598   1_655 S
+Al8    Sb1     2.598   1_655 S
+Sb9    Al8     2.598   1_455 S
+Sb9    Al10    2.598   .     S
+Sb9    Al16    2.598   1_455 S
+Al10   Sb19    2.598   .     S
+Al10   Sb11    2.598   .     S
+Sb11   Al12    2.598   .     S
+Al12   Sb21    2.598   .     S
+Al12   Sb13    2.598   .     S
+Sb13   Al14    2.598   .     S
+Al14   Sb23    2.598   .     S
+Al14   Sb15    2.598   .     S
+Sb15   Al16    2.598   .     S
+Al16   Sb17    2.598   1_655 S
+Al16   Sb9     2.598   1_655 S
+Sb17   Al16    2.598   1_455 S
+Sb17   Al18    2.598   .     S
+Sb17   Al24    2.598   1_455 S
+Al18   Sb27    2.598   .     S
+Al18   Sb19    2.598   .     S
+Sb19   Al20    2.598   .     S
+Al20   Sb29    2.598   .     S
+Al20   Sb21    2.598   .     S
+Sb21   Al22    2.598   .     S
+Al22   Sb31    2.598   .     S
+Al22   Sb23    2.598   .     S
+Sb23   Al24    2.598   .     S
+Al24   Sb25    2.598   1_655 S
+Al24   Sb17    2.598   1_655 S
+Sb25   Al24    2.598   1_455 S
+Sb25   Al26    2.598   .     S
+Sb25   Al32    2.598   1_455 S
+Al26   Sb3     2.598   1_565 S
+Al26   Sb27    2.598   .     S
+Sb27   Al28    2.598   .     S
+Al28   Sb5     2.598   1_565 S
+Al28   Sb29    2.598   .     S
+Sb29   Al30    2.598   .     S
+Al30   Sb7     2.598   1_565 S
+Al30   Sb31    2.598   .     S
+Sb31   Al32    2.598   .     S
+Al32   Sb1     2.598   1_665 S
+Al32   Sb25    2.598   1_655 S
+C34    H35     1.101   .     S
+C34    H36     1.101   .     S
